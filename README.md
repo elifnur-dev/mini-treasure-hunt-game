@@ -2,11 +2,17 @@
 A simple desktop treasure hunt game developed using Python and Tkinter. The player moves across a randomly generated map to find the hidden treasure.
 
 ##Features:
+
 -Randomly generated map
+
 -Objective:Find the treasure
+
 -Trap system
+
 -Hint system
+
 -Grid-based player movement
+
 -Graphical user interface(Tkinter)
 
 ##Technologies Used
