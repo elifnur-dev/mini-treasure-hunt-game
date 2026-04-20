@@ -72,7 +72,7 @@ mini-treasure-hunt-game/
 
 ##Games Screenshot
 
--<img width="1918" height="1020" alt="Ekran görüntüsü 2026-04-20 150640" src="https://github.com/user-attachments/assets/c222206e-29a8-4c93-9b60-23ebdb672d72" />
+<img width="1918" height="1020" alt="Ekran görüntüsü 2026-04-20 150640" src="https://github.com/user-attachments/assets/c222206e-29a8-4c93-9b60-23ebdb672d72" />
 
 
 ##Future Improvements
